@@ -1,0 +1,4 @@
+{"level":"info","message":"Server running on port 5000","service":"voice-commerce-service","timestamp":"2026-06-05 23:11:07"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"voice-commerce-service","timestamp":"2026-06-05 23:11:07"}
+{"level":"info","message":"Server running on port 5000","service":"voice-commerce-service","timestamp":"2026-06-05 23:24:26"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"voice-commerce-service","timestamp":"2026-06-05 23:24:26"}
